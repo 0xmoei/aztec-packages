@@ -18,6 +18,7 @@ The Aztec full node is a critical infrastructure component that allows users to 
 Before following this guide, make sure you:
 
 - Have the `aztec` tool [installed](../../../developers/getting_started.md#install-the-sandbox)
+- Set up `docker` on your system. Refer to the [Docker installation guide](https://docs.docker.com/engine/install/).
 - You are using the correct version for the testnet by running `aztec-up alpha-testnet`
 - Are running a Linux or MacOS machine with access to a terminal
 
